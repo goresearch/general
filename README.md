@@ -7,8 +7,9 @@ This repository contains research topics that are not complex enough to expand t
 - Topics move into archive folder after creation of their dedicated repository.
 ## Topics
 - [books](books.md)
-- [civil disobedience](civil disobedience.md)
-- [online library](online library.md)
-- [public resources](public resources.md)
+- [civil disobedience](civil%20disobedience.md)
+- [innovation](innovation.md)
+- [online library](online%20library.md)
+- [public resources](public%20resources.md)
 ## Todo
 - [ ] Update topics list automatically. 
