@@ -9,6 +9,7 @@ This repository contains research topics that are not complex enough to expand t
 - [books](books.md)
 - [civil disobedience](civil%20disobedience.md)
 - [consumption](consumption.md)
+- [education](education.md)
 - [innovation](innovation.md)
 - [online library](online%20library.md)
 - [public resources](public%20resources.md)
